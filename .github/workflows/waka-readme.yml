@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: StarKnightt/StarKnightt
+          REPOSITORY: DavidRicardoWilde/DavidRicardoWilde
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ░▒▓█
@@ -30,7 +30,7 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: NOT_SET
           TARGET_PATH: NOT_SET
-          COMMITTER_NAME: Prasenjit Nayak
-          COMMITTER_EMAIL: prasenjitt4e@gmail.com
+          COMMITTER_NAME: Waka-Readme-Action
+          COMMITTER_EMAIL: gh-actions@gluttongk.com
           AUTHOR_NAME: NOT_SET
           AUTHOR_EMAIL: NOT_SET
