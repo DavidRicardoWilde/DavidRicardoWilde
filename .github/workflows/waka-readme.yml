@@ -24,11 +24,11 @@ jobs:
           BLOCKS: ░▒▓█
           CODE_LANG: txt
           TIME_RANGE: all_time
-          LANG_COUNT: 5
+          LANG_COUNT: 7
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: false
+          STOP_AT_OTHER: true
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: NOT_SET
           TARGET_PATH: NOT_SET
