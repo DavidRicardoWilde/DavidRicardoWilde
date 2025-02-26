@@ -1,4 +1,4 @@
-name: generate a snake gaming style animation on my contribution graph
+name: snake animation
 
 on:
   workflow_dispatch:
