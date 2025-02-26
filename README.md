@@ -19,16 +19,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2025 - To: 24 February 2025
+From: 23 February 2025 - To: 25 February 2025
 
-Total Time: 1 hr 46 mins
+Total Time: 2 hrs 43 mins
 
-YAML             55 mins         █████████████░░░░░░░░░░░░   52.33 %
-Markdown         26 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
-TypeScript       18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
-JSON             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML             1 hr 17 mins    ████████████░░░░░░░░░░░░░   47.51 %
+Markdown         1 hr 2 mins     █████████▓░░░░░░░░░░░░░░░   38.03 %
+TypeScript       18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+JSON             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
