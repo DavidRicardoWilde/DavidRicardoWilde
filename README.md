@@ -23,7 +23,7 @@
 <!-- END_SECTION: readme-typing-svg -->
 
 <!--START_SECTION:waka - using -- https://github.com/athul/waka-readme -->
-
+<!--START_SECTION:waka-->
 ```txt
 From: 23 February 2025 - To: 25 February 2025
 
