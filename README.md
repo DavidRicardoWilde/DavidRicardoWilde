@@ -24,18 +24,19 @@
 
 <!--START_SECTION:waka - using -- https://github.com/athul/waka-readme -->
 <!--START_SECTION:waka-->
+
 ```txt
-From: 23 February 2025 - To: 25 February 2025
+From: 23 February 2025 - To: 26 March 2025
 
-Total Time: 2 hrs 43 mins
+Total Time: 45 hrs 26 mins
 
-YAML             1 hr 17 mins    ████████████░░░░░░░░░░░░░   47.51 %
-Markdown         1 hr 2 mins     █████████▓░░░░░░░░░░░░░░░   38.03 %
-TypeScript       18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
-JSON             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript       35 hrs 58 mins  ███████████████████▓░░░░░   78.33 %
+JSON             2 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Markdown         2 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+YAML             1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Text             1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Git              39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Other            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
