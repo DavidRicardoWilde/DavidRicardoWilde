@@ -43,14 +43,7 @@ Other            1 hr 58 mins    ▒░░░░░░░░░░░░░░�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidricardowilde&size_weight=0.5&count_weight=0.5&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- END top languages card -->
 
-
-<!-- Leetcode stats card - using -- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/DavidRicardoWilde?site=us)
-![Leetcode Stats](https://leetcard.jacoblin.cool/JonesWilde?site=cn)
-<!-- End Leetcode stats card -->
-
 <!-- Languages -->
-
 [![My Skills](https://skillicons.dev/icons?i=java,go,ts,solidity&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring,nextjs,tailwind,react,nuxtjs&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=light)](https://skillicons.dev)
