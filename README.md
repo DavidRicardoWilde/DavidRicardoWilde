@@ -41,10 +41,6 @@ JavaScript       2 hrs 24 mins         ▒░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<!-- START top languages card - using -- https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidricardowilde&size_weight=0.5&count_weight=0.5&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- END top languages card -->
-
 <!-- Languages -->
 [![My Skills](https://skillicons.dev/icons?i=java,go,ts,solidity&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring,nextjs,tailwind,react,nuxtjs&theme=light)](https://skillicons.dev)
