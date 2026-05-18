@@ -26,15 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2025 - To: 16 May 2026
+From: 23 February 2025 - To: 17 May 2026
 
-Total Time: 258 hrs 44 mins
+Total Time: 271 hrs 39 mins
 
-TypeScript        179 hrs 56 mins       █████████████████░░░░░░░░   68.38 %
-JSON              29 hrs 13 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Markdown          17 hrs 38 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-CSS               10 hrs 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Other             4 hrs 25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+TypeScript        187 hrs 35 mins       █████████████████░░░░░░░░   67.85 %
+JSON              29 hrs 58 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Markdown          20 hrs 15 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+CSS               10 hrs 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Other             4 hrs 50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
