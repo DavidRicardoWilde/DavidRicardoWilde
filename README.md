@@ -26,12 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2025 - To: 22 July 2026
+From: 23 February 2025 - To: 23 July 2026
 
 Total Time: 272 hrs 33 mins
 
 TypeScript        187 hrs 41 mins       █████████████████░░░░░░░░   67.57 %
-JSON              30 hrs 22 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+JSON              30 hrs 23 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
 Markdown          20 hrs 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
 CSS               10 hrs 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 Other             5 hrs 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
