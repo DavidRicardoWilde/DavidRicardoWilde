@@ -3,7 +3,7 @@ name: snake animation
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs at 12 AM UTC
+    - cron: "0 0 1 * *" # runs at 12 AM UTC on the 1st of each month
   push:
     branches:
       - main

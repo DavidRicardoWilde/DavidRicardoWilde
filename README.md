@@ -22,23 +22,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+David+Wilde!;A+Developer+from+earth)](https://git.io/typing-svg)
 <!-- END_SECTION: readme-typing-svg -->
 
-<!--START_SECTION:waka - using -- https://github.com/athul/waka-readme -->
-<!--START_SECTION:waka-->
-
-```txt
-From: 23 February 2025 - To: 12 October 2026
-
-Total Time: 283 hrs 7 mins
-
-TypeScript        189 hrs 33 mins       ████████████████▒░░░░░░░░   65.72 %
-JSON              31 hrs 36 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Markdown          21 hrs 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-CSS               11 hrs 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Other             5 hrs 18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-```
-
-<!--END_SECTION:waka-->
-
 <!-- Languages -->
 [![My Skills](https://skillicons.dev/icons?i=java,go,ts,solidity&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring,nextjs,tailwind,react,nuxtjs&theme=light)](https://skillicons.dev)
